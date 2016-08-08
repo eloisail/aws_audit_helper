@@ -1,6 +1,8 @@
 # aws_audit_helper
 Pequeño script para conseguir información de una cuenta de aws.
 
+# Antes de ejecutar
+
 Este script usa Boto 3.
 Antes de ejecutarlo se deben configurar las credenciales de autenticación para el cliente de aws.
 Suelen estar en ~/.aws/credentials
